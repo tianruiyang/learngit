@@ -5,4 +5,5 @@ wow,I like "茨木童子"
 wow.I like "玉藻前"
 wow,I like "彼岸花"
 wow.I like "妖刀姬"
+wow,I like "荒"
 
