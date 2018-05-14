@@ -8,5 +8,7 @@ wow.I like "妖刀姬"
 wow,I like "辉夜姬"
 wow,I like "荒"
 wow,I like "大天狗"
+<<<<<<< Updated upstream
 wow,I like "山风"
+wow.I like "青行灯"
 
